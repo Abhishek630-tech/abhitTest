@@ -11,8 +11,9 @@ namespace DemoProgram
         static void Main(string[] args)
         {
             int n1 = 6;
-            int n2 = 10;
+            int n2 = 23;
             Console.WriteLine("Total is :" +(n1+n2));
+            Console.WriteLine("Bye");
         }
     }
 }

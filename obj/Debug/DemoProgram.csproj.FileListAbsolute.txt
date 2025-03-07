@@ -1,0 +1,7 @@
+C:\Users\ABHISHEK\Desktop\abhitTest\bin\Debug\DemoProgram.exe.config
+C:\Users\ABHISHEK\Desktop\abhitTest\bin\Debug\DemoProgram.exe
+C:\Users\ABHISHEK\Desktop\abhitTest\bin\Debug\DemoProgram.pdb
+C:\Users\ABHISHEK\Desktop\abhitTest\obj\Debug\DemoProgram.csproj.AssemblyReference.cache
+C:\Users\ABHISHEK\Desktop\abhitTest\obj\Debug\DemoProgram.csproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK\Desktop\abhitTest\obj\Debug\DemoProgram.exe
+C:\Users\ABHISHEK\Desktop\abhitTest\obj\Debug\DemoProgram.pdb
