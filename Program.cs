@@ -13,7 +13,7 @@ namespace DemoProgram
             int n1 = 6;
 
 
-            int n2 = 9;
+            int n2 =229;
 
             Console.WriteLine("Total is :" + (n1 + n2));
 
